@@ -107,6 +107,6 @@ export default () => {
           <KeyboardSpacer onToggle={(visible) => setScrollEnabled(visible)} />
         </View>
       </ScrollView>
-    </View> 
+    </View>
   );
 };
